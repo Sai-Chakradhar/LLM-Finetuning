@@ -38,9 +38,4 @@ This project demonstrates how to fine-tune the `microsoft/Phi-3-mini-4k-instruct
 - PyTorch
 - Google Colab or Jupyter Notebook
 
-## 🚀 How to Run
 
-### 1. Install dependencies
-
-```bash
-pip install transformers peft trl datasets scikit-learn
